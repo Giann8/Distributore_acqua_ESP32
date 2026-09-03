@@ -27,14 +27,6 @@ Repository GitHub: https://github.com/Giann8/Distributore_acqua_ESP32.git
 - Pulsante fisico
 - WiFi opzionale
 
-## Autore
-
-Graziano Nobile
-
-## Licenza
-
-GNU GPL v3.0
-
 ## Struttura principale
 
 - `main.py` avvia il ciclo del distributore
