@@ -1,0 +1,9 @@
+wifi_secrets.py
+__pycache__/
+.DS_Store
+find_port.sh
+upload.sh
+.vscode/
+mcp-server/
+upload.sh
+find_port.sh
