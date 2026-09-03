@@ -4,8 +4,6 @@ Distributore d'acqua semi-autonomo basato su ESP32 e MicroPython. Il sistema usa
 
 Il progetto è pensato per gestire il riempimento in modo guidato ma semplice: l'utente posiziona il contenitore, conferma con il pulsante e seleziona il volume da erogare. Il firmware distingue tra bicchiere e borraccia, applica filtri sulle letture del sensore e aggiorna il display con una UI più leggibile.
 
-Repository GitHub: https://github.com/Giann8/Distributore_acqua_ESP32.git
-
 ## Funzionalità
 
 - Rilevamento del contenitore tramite cella di carico HX711
